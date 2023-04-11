@@ -1,0 +1,6 @@
+[submodule "cryptic/-f"]
+	path = cryptic/-f
+	url = https://github.com/mellosec/skavencryptiv
+[submodule "cryptic/skavencryptiv"]
+	path = cryptic/skavencryptiv
+	url = https://github.com/mellosec/skavencryptiv
